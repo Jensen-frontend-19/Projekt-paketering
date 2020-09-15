@@ -1,0 +1,12 @@
+{
+  "name": "individual-project",
+  "version": "1.0.0",
+  "description": "Individual project - TDD and Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tdd", "vue", "parcel", "docker", "jenkins"],
+  "author": "David Andersson",
+  "license": "ISC"
+}
