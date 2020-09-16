@@ -41,6 +41,8 @@ Bygg en image som innehåller appen. Observera att du behöver inkludera en webb
 #### Deploy online
 Publicera appen i en Docker container med valfri molntjänst, till exempel Heroku.
 
+[Publicering, miniguide](deploy.md)
+
 *Tips! Vänta inte med deploy till sista dagen. Skriv upp de kommandon du använder för att bygga en image. (Du kommer behöva göra det flera gånger.) Gör en MVP (minimum viable product) och publicera den. Sedan jobbar du vidare tills du är klar med appen.*
 
 ---
