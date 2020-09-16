@@ -25,7 +25,7 @@ Se https://www.meetup.com/ för inspiration.
 ### 2. Uppdragsbeskrivning
 *Fråga läraren om du vill använda andra tekniker än de som står här.*
 #### Vue-app
-Du ska bygga en Vue-app med Vue CLI. Använd en egen fil för appens data. (Det är ok att använda localStorage.) Appen ska vara användarvänlig och användbar.
+Du ska bygga en Vue-app med Vue CLI. Använd en egen fil för appens data. (Exempel i repot 05-docker. Det är ok att använda localStorage.) Appen ska vara användarvänlig och användbar.
 
 
 #### TDD
@@ -51,7 +51,7 @@ Implementera level ups för att få högre betyg och lära dig mer.
 
 **Planera event** - användare kan lägga till egna events.
 
-**API/databas** - appen använder en databas eller ett API för att spara events.
+**API/databas** - appen använder en databas eller ett API för att spara events. Tips på API: https://jsonbin.org/, https://jsonbin.io/
 
 **Systemtester** - testa hur komponenter fungerar tillsammans
 
