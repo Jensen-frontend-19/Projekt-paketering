@@ -9,6 +9,12 @@ Läs mer här:
 + [Container registry and runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
 
 
+#### Byt stack
+Heroku har Node-miljö som standardinställning. Du måste byta till `container`. Det kan man göra från Heroku Dashboard, fliken Settings; eller genom att skriva i terminalen:
+```bash
+heroku stack:set container -a namnet-på-din-heroku-app
+```
+
 #### Konfigurationsfil
 Din `Dockerfile` kan innehålla samma saker som i guiden "Dockerize Vue app" ovan.
 
